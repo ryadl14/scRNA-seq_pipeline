@@ -1,0 +1,5 @@
+scanpy
+leidenalg
+python-igraph
+matplotlib
+seaborn
