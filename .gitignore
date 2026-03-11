@@ -3,6 +3,8 @@ data/
 data/raw/*
 data/processed/*
 results/figures/*
-!data/processed/.gitkeep
+!data/raw/.gitkeep
 !data/processed/.gitkeep
 !results/figures/.gitkeep
+__pycache__/
+*.pyc
